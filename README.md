@@ -1,2 +1,2 @@
-# my-porfolio
-This is my professional porfilio
+# Manuel Duarte's Portfolio
+This is my professional portfolio. It uses AWS and ReactJS
