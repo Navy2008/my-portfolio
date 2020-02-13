@@ -1,0 +1,14 @@
+version 0.1
+
+phases:
+  build:
+    commands:
+
+      -echo Nothig to do yet
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - IT-Developer_Resume.pdf
+    - styles/main.css
+    - images/*
