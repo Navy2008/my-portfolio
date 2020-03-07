@@ -12,3 +12,4 @@ artifacts:
     - IT-Developer_Resume.pdf
     - styles/main.css
     - images/*
+    - dist/bundle.js
