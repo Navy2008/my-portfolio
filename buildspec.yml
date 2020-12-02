@@ -1,12 +1,12 @@
-version 0.1
+version: 0.1
 
 phases:
   build:
     commands:
 
       -echo Nothig to do yet
-artifacts:
-  files:
+artifacts :
+  files :
     - index.html
     - favicon.ico
     - Portfolio-Resume.pdf
