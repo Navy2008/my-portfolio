@@ -9,7 +9,7 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - IT-Developer_Resume.pdf
+    - Portfolio-Resume.pdf
     - styles/main.css
     - images/*
     - dist/bundle.js
