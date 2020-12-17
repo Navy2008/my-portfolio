@@ -1,7 +1,7 @@
 import boto3
 
 def lambda_client():
-    aws_lambda= boto3.client('lambda',region='eu-east-1')
+    aws_lambda= boto3.client('lambda',region='us-west-2')
     """:type : Pyboto3.lambda """
 
 def iam_client():
